@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568249842 source:c:\_storage\programming and electronics\c++ codes\connect4 game (c++)\main.cpp
+	<iostream>
+	<cstring>
+	<stdlib.h>
+
